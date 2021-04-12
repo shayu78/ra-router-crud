@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3r7g2hfa8ekdb76y?svg=true)](https://ci.appveyor.com/project/shayu78/ra-router-crud)
 CRUD
 ===
 
