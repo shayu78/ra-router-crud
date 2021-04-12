@@ -17,7 +17,7 @@ function App() {
             <Route path="/posts/new" exact component={PostAdd} />
             <Route path="/posts/edit/:id" exact component={PostEdit} />
             <Route path="/posts/:id" exact component={PostView} />
-            <Route path="/" component={PostsWidget} />
+            <Route path="/" exact component={PostsWidget} />
             <Route path="*" component={Page404} />
           </Switch>
         </div>
